@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="childName">Дети</string>
+    <string name="oldName">Взрослые</string>
+    <string name="surveyMain">Основное</string>
+    <string name="surveyAdditional">Дополнительное</string>
+    <string name="typeSurvey">Вид обследования</string>
+    <string name="havetoSurvey">Обследования, которые необходимо пройти</string>
+</resources>
